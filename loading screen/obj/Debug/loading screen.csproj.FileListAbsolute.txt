@@ -1,0 +1,9 @@
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\loading screen\loading screen\bin\Debug\loading screen.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\loading screen\loading screen\bin\Debug\loading screen.exe
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\loading screen\loading screen\bin\Debug\loading screen.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\loading screen\loading screen\obj\Debug\loading screen.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\loading screen\loading screen\obj\Debug\loading_screen.Form1.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\loading screen\loading screen\obj\Debug\loading_screen.Properties.Resources.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\loading screen\loading screen\obj\Debug\loading screen.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\loading screen\loading screen\obj\Debug\loading screen.exe
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\loading screen\loading screen\obj\Debug\loading screen.pdb
